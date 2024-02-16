@@ -82,7 +82,7 @@
 
 ## 📫 How to Reach Me
 
-- **Note :** **Click** on this Image TO Connect me.
+- **Note :** **Click** on this **Icones** TO Connect me.
 
 <p align="center">
   <a href="https://discordapp.com/users/bytebender333">
