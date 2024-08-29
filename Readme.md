@@ -1,88 +1,87 @@
+
+---
+
 <p align="center">
-  <img src="./Attachment/Github-Banners.webp" alt="Github-Banners">
+  <img src="./Attachment/Github-Banners.webp" alt="GitHub Banner">
 </p>
 
 <p align="center">
-	<img  width="200" alt="VisitCount" src="https://visitcount.itsvg.in/api?id=sandip3&icon=2&color=0">
-<p/>
+	<img width="200" alt="VisitCount" src="https://visitcount.itsvg.in/api?id=sandip3&icon=2&color=0">
+</p>
 
-# Hi there, I'm Mishra Sandip! 👋
+# Hi there, I'm Sandip Mishra! 👋
 
 ## 🚀 About Me
 
-- I am a passionate **Web developer** with a focus on **frontend** designs and development.
-- I'm always eager to learn and improve my skills.
+- 💻 A passionate **Web Developer** focused on **frontend** designs and development.
+- 🎓 Currently pursuing a **Degree in Computer Engineering** at Prime Institute of Engineering and Technology, Surat.
+- 🏆 Received **2nd Prize** for a project presentation on an "Experimental Facial Recognition Login System for an E-commerce Site."
+- 🤓 Eager to learn, grow, and contribute to innovative projects.
+
+### [📄 View My Resume](https://drive.google.com/file/d/13PGg-Te7gY6gCKAtAzw8SdPQq-ZR5TGy/view?usp=sharing)
 
 ---
-### [📄 Resume](https://drive.google.com/file/d/13PGg-Te7gY6gCKAtAzw8SdPQq-ZR5TGy/view?usp=sharing)
----
+
 <p align="center">
-  <img src="./Attachment/Github-Profile-gif.gif" alt="Github-Profile-gif">
+  <img src="./Attachment/Github-Profile-gif.gif" alt="Github Profile GIF">
 </p>
 
-<!-- ## 💼 Experience
+## 💼 Professional Experience
 
-- [Company/Organization Name](Link to your employer's website) - Position (Month Year - Present)
-  - Description of your responsibilities and achievements. -->
+- 🌟 Aspiring to secure an entry-level role to leverage my skills in **Python** and **Flask**.
+- 💡 Skilled in delivering precise web solutions and enthusiastic about contributing to innovative projects.
 
 ---
 
 ## 💻 Tech Stack
 
-### Languages
-
-### Basic ✨: 
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,md" alt="C,Python,Md">
+  <img src="https://skillicons.dev/icons?i=c,python,php,html,css,js,bootstrap,flask,tailwind,mysql,git,github" alt="Tech Stack Icons">
 </p>
+
+- **Languages:** ![C](https://img.shields.io/badge/-C-blue) ![Python](https://img.shields.io/badge/-Python-green) ![PHP](https://img.shields.io/badge/-PHP-purple)  
+- **Web Development:** ![HTML](https://img.shields.io/badge/-HTML-orange) ![CSS](https://img.shields.io/badge/-CSS-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)  
+- **Frameworks/Libraries:** ![Bootstrap](https://img.shields.io/badge/-Bootstrap-blue) ![Flask](https://img.shields.io/badge/-Flask-gray) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-teal) ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-red)  
+- **Database:** ![MySQL](https://img.shields.io/badge/-MySQL-blue)  
+- **Version Control:** ![Git](https://img.shields.io/badge/-Git-orange) ![GitHub](https://img.shields.io/badge/-GitHub-black)  
+- **Operating Systems:** ![Linux](https://img.shields.io/badge/-Linux-red) ![Windows](https://img.shields.io/badge/-Windows-blue)  
+- **IDE:** ![VS Code](https://img.shields.io/badge/-VS%20Code-blue)
 
 ---
 
-### Web Development 💻🌐
- 
-#### Front-end 💻: 
+## 🌟 Featured Projects
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php" alt="HTML, CSS, JavaScript, PHP">
-</p>
+Here are some of the projects I've worked on:
 
-### Frameworks 🌐
+- **Grocery Market [Flask] 🛒**  
+  - A web application for grocery management with user authentication and SQLAlchemy integration.  
+  - [GitHub Repository](https://github.com/sandip3/Python-Project/tree/master/Grocery%20Market)
 
-#### Front-end 💻:   
+- **Auto Reply AI 🤖**  
+  - An automated response system using Google Generative AI for enhanced user interaction.  
+  - [GitHub Repository](https://github.com/sandip3/Python-Project/tree/master/Auto%20Reply%20AI%20Chatbot)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react" alt="Bootstrap, Tailwind, React">
-</p>
+- **Jarvis - A Virtual Assistant**  
+  - A Python-based virtual assistant that performs voice-activated tasks.  
+  - [GitHub Repository](https://github.com/sandip3/Python-Project/tree/master/Jarvis%20AI)
+
+- **Face Detection using OpenCV 💻👁️**  
+  - Real-time face detection using OpenCV and machine learning algorithms.  
+  - [GitHub Repository](https://github.com/sandip3/Face-detect)
+
+Feel free to explore more of my [GitHub Projects](https://github.com/sandip3) for details!
 
 ---
 
-### Tools ⚙ 
+## 🏆 Achievements & Honors
 
-#### 🖥️ OS:
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux" alt="Linux">
-  <img src="https://maxst.icons8.com/vue-static/icon/benefits/icon-windows-compliant.svg" alt="Windows" width = "55px">
-</p>
-
-#### 💻 IDE: 
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code">
-</p>
-
-<!-- ## 🌟 Projects
-
-- [Project 1](Link to Project 1): Brief description of the project.
-- [Project 2](Link to Project 2): Brief description of the project.
-- [Project 3](Link to Project 3): Brief description of the project. -->
+- 🥈 **2nd Prize:** "Experimental Facial Recognition Login System for an E-commerce Site" - Project Leader
 
 ---
 
 ## 📫 How to Reach Me
 
-- **Note :** **Click** on this **Icones** TO Connect me.
+- You can connect with me through the following platforms:
 
 <p align="center">
   <a href="https://discordapp.com/users/bytebender333">
@@ -101,42 +100,27 @@
 
 ---
 
-## 🌐 Socials
+## 📊 GitHub Stats
 
 <p align="center">
-    <a href="https://discordapp.com/users/bytebender333">
-        <img src="https://skillicons.dev/icons?i=discord" alt="Discord">
-    </a>
-    <a href="https://www.linkedin.com/in/sandip-mishra-74906b258/">
-        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
-    </a>
-    <a href="https://codepen.io/sandip3">
-        <img src="https://skillicons.dev/icons?i=codepen" alt="CodePen">
-    </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=sandip3&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandip3&layout=compact&theme=radical" alt="Most Used Languages">
 </p>
 
 ---
 
-<!-- ## 📊 GitHub Stats
+## 🌐 Socials
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandip3&show_icons=true&theme=radical" alt="GitHub Stats">
-</p> -->
-
-<!-- ## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sandip3&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies">
-</p> -->
-
-<!-- ## 🔝 Top Contributed Repo
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=sandip3&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repo">
-</p> -->
-
-## Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandip3&layout=pie&theme=radical&icon_color=15bb8a&hide_border=true" alt="Most Used Languages">
+  <a href="https://discordapp.com/users/bytebender333">
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord">
+  </a>
+  <a href="https://www.linkedin.com/in/sandip-mishra-74906b258/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://codepen.io/sandip3">
+    <img src="https://skillicons.dev/icons?i=codepen" alt="CodePen">
+  </a>
 </p>
+
+---
