@@ -18,7 +18,7 @@
 - 🏆 Received **2nd Prize** for a project presentation on an "Experimental Facial Recognition Login System for an E-commerce Site."
 - 🤓 Eager to learn, grow, and contribute to innovative projects.
 
-### [📄 View My Resume](https://drive.google.com/file/d/13PGg-Te7gY6gCKAtAzw8SdPQq-ZR5TGy/view?usp=sharing)
+### [📄 View My Resume](https://drive.google.com/file/d/1HVXKdnpfK3WjU8TQPLU5S41b21u3fko7/view?usp=sharing)
 
 ---
 
