@@ -87,7 +87,7 @@ Feel free to explore more of my [GitHub Projects](https://github.com/sandip3) fo
   <a href="https://discordapp.com/users/bytebender333">
     <img src="https://skillicons.dev/icons?i=discord" alt="Discord">
   </a>
-  <a href="https://www.linkedin.com/in/sandip-mishra-74906b258/">
+  <a href="https://www.linkedin.com/in/sandip-mishra333/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
   </a>
   <a href="https://codepen.io/sandip3">
@@ -115,7 +115,7 @@ Feel free to explore more of my [GitHub Projects](https://github.com/sandip3) fo
   <a href="https://discordapp.com/users/bytebender333">
     <img src="https://skillicons.dev/icons?i=discord" alt="Discord">
   </a>
-  <a href="https://www.linkedin.com/in/sandip-mishra-74906b258/">
+  <a href="https://www.linkedin.com/in/sandip-mishra333/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
   </a>
   <a href="https://codepen.io/sandip3">
