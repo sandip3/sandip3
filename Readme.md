@@ -1,35 +1,33 @@
-
----
-
 <p align="center">
-  <img src="./Attachment/Github-Banners.webp" alt="GitHub Banner">
+  <img src="https://raw.githubusercontent.com/sandip3/sandip3/master/Attachment/Github-Banners.webp" alt="GitHub Banner">
 </p>
 
 <p align="center">
-	<img width="200" alt="VisitCount" src="https://visitcount.itsvg.in/api?id=sandip3&icon=2&color=0">
+  <img width="200" alt="VisitCount" src="https://visitcount.itsvg.in/api?id=sandip3&icon=2&color=0">
 </p>
 
 # Hi there, I'm Sandip Mishra! 👋
 
 ## 🚀 About Me
 
-- 💻 A passionate **Web Developer** focused on **frontend** designs and development.
-- 🎓 Currently pursuing a **Degree in Computer Engineering** at Prime Institute of Engineering and Technology, Surat.
-- 🏆 Received **2nd Prize** for a project presentation on an "Experimental Facial Recognition Login System for an E-commerce Site."
+- 💻 **Web Developer** focused on **frontend** designs and development.
+- 🎓 Pursuing a **Degree in Computer Engineering** at Prime Institute of Engineering and Technology, Surat.
+- 🏆 **2nd Prize** for **"Experimental Facial Recognition Login System for an E-commerce Site"**.
 - 🤓 Eager to learn, grow, and contribute to innovative projects.
 
-### [📄 View My Resume](https://drive.google.com/file/d/1HVXKdnpfK3WjU8TQPLU5S41b21u3fko7/view?usp=sharing)
+### [📄 Resume - Flask Developer](https://drive.google.com/file/d/1chdEsK8UocuZNk5eOIp--8c7idXBSH7m/view?usp=sharing)
+### [📄 Resume - Web Developer](https://drive.google.com/file/d/1KF6y_cWpAjPokwCvC9c36B6NoblO6Q-T/view?usp=sharing)
 
 ---
 
 <p align="center">
-  <img src="./Attachment/Github-Profile-gif.gif" alt="Github Profile GIF">
+  <img src="https://raw.githubusercontent.com/sandip3/sandip3/master/Attachment/Github-Profile-gif.gif" alt="GitHub Profile GIF">
 </p>
 
 ## 💼 Professional Experience
 
-- 🌟 Aspiring to secure an entry-level role to leverage my skills in **Python** and **Flask**.
-- 💡 Skilled in delivering precise web solutions and enthusiastic about contributing to innovative projects.
+- 🌟 Seeking an entry-level role to leverage skills in **Python**, **Flask**, **Html**, **CSS** and **JavaScript** .
+- 💡 Skilled in delivering precise web solutions and enthusiastic about innovative projects.
 
 ---
 
@@ -39,37 +37,32 @@
   <img src="https://skillicons.dev/icons?i=c,python,php,html,css,js,bootstrap,flask,tailwind,mysql,git,github" alt="Tech Stack Icons">
 </p>
 
-- **Languages:** ![C](https://img.shields.io/badge/-C-blue) ![Python](https://img.shields.io/badge/-Python-green) ![PHP](https://img.shields.io/badge/-PHP-purple)  
-- **Web Development:** ![HTML](https://img.shields.io/badge/-HTML-orange) ![CSS](https://img.shields.io/badge/-CSS-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)  
-- **Frameworks/Libraries:** ![Bootstrap](https://img.shields.io/badge/-Bootstrap-blue) ![Flask](https://img.shields.io/badge/-Flask-gray) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-teal) ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-red)  
-- **Database:** ![MySQL](https://img.shields.io/badge/-MySQL-blue)  
-- **Version Control:** ![Git](https://img.shields.io/badge/-Git-orange) ![GitHub](https://img.shields.io/badge/-GitHub-black)  
-- **Operating Systems:** ![Linux](https://img.shields.io/badge/-Linux-red) ![Windows](https://img.shields.io/badge/-Windows-blue)  
+- **Languages:** ![C](https://img.shields.io/badge/-C-blue) ![Python](https://img.shields.io/badge/-Python-green) ![PHP](https://img.shields.io/badge/-PHP-purple)
+- **Web Development:** ![HTML](https://img.shields.io/badge/-HTML-orange) ![CSS](https://img.shields.io/badge/-CSS-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+- **Frameworks/Libraries:** ![Bootstrap](https://img.shields.io/badge/-Bootstrap-blue) ![Flask](https://img.shields.io/badge/-Flask-gray) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-teal) ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-red)
+- **Version Control:** ![Git](https://img.shields.io/badge/-Git-orange) ![GitHub](https://img.shields.io/badge/-GitHub-black)
+- **Operating Systems:** ![Linux](https://img.shields.io/badge/-Linux-red) ![Windows](https://img.shields.io/badge/-Windows-blue)
 - **IDE:** ![VS Code](https://img.shields.io/badge/-VS%20Code-blue)
 
 ---
 
 ## 🌟 Featured Projects
 
-Here are some of the projects I've worked on:
-
 - **Grocery Market [Flask] 🛒**  
-  - A web application for grocery management with user authentication and SQLAlchemy integration.  
+  - Web app for grocery management with user authentication and SQLAlchemy.  
   - [GitHub Repository](https://github.com/sandip3/Python-Project/tree/master/Grocery%20Market)
 
 - **Auto Reply AI 🤖**  
-  - An automated response system using Google Generative AI for enhanced user interaction.  
+  - Automated response system using Google Generative AI.  
   - [GitHub Repository](https://github.com/sandip3/Python-Project/tree/master/Auto%20Reply%20AI%20Chatbot)
 
 - **Jarvis - A Virtual Assistant**  
-  - A Python-based virtual assistant that performs voice-activated tasks.  
+  - Python-based virtual assistant with voice-activated tasks.  
   - [GitHub Repository](https://github.com/sandip3/Python-Project/tree/master/Jarvis%20AI)
 
 - **Face Detection using OpenCV 💻👁️**  
-  - Real-time face detection using OpenCV and machine learning algorithms.  
+  - Real-time face detection with OpenCV.  
   - [GitHub Repository](https://github.com/sandip3/Face-detect)
-
-Feel free to explore more of my [GitHub Projects](https://github.com/sandip3) for details!
 
 ---
 
@@ -80,8 +73,6 @@ Feel free to explore more of my [GitHub Projects](https://github.com/sandip3) fo
 ---
 
 ## 📫 How to Reach Me
-
-- You can connect with me through the following platforms:
 
 <p align="center">
   <a href="https://discordapp.com/users/bytebender333">
