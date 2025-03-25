@@ -1,27 +1,46 @@
+
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sandip3/sandip3/master/Attachment/Github-Banners.webp" alt="GitHub Banner">
+  <img src="./Attachment/Github-Banners.webp" alt="GitHub Banner">
 </p>
 
 <p align="center">
-  <img width="200" alt="VisitCount" src="https://visitcount.itsvg.in/api?id=sandip3&icon=2&color=0">
+	<img width="200" alt="VisitCount" src="https://visitcount.itsvg.in/api?id=sandip3&icon=2&color=0">
 </p>
 
 # Hi there, I'm Sandip Mishra! 👋
 
 ## 🚀 About Me
 
-- 💻 **Web Developer** focused on **frontend** designs and development.
-- 🎓 Pursuing a **Degree in Computer Engineering** at Prime Institute of Engineering and Technology, Surat.
-- 🏆 **2nd Prize** for **"Experimental Facial Recognition Login System for an E-commerce Site"**.
+- 💻 A passionate **Web Developer** focused on **frontend** designs and development.
+- 🎓 Currently pursuing a **Degree in Computer Engineering** at Prime Institute of Engineering and Technology, Surat.
+- 🏆 Received **2nd Prize** for a project presentation on an "Experimental Facial Recognition Login System for an E-commerce Site."
 - 🤓 Eager to learn, grow, and contribute to innovative projects.
 
-### [📄 Resume - Flask Developer](https://drive.google.com/file/d/1chdEsK8UocuZNk5eOIp--8c7idXBSH7m/view?usp=sharing)
-### [📄 Resume - Web Developer](https://drive.google.com/file/d/1KF6y_cWpAjPokwCvC9c36B6NoblO6Q-T/view?usp=sharing)
+---
+<img src="https://raw.githubusercontent.com/sandip3/sandip3/output/snake.svg" alt="Snake animation" />
+
+###
+
+---
+
+## 🕹️ Contribution Graph
+<picture>
+    <source media="(prefers-color-scheme: dark)"
+        srcset="https://raw.githubusercontent.com/sandip3/sandip3/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+        srcset="https://raw.githubusercontent.com/sandip3/sandip3/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph"
+        src="https://raw.githubusercontent.com/sandip3/sandip3/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+### [📄 View My Resume](https://drive.google.com/file/d/1HVXKdnpfK3WjU8TQPLU5S41b21u3fko7/view?usp=sharing)
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sandip3/sandip3/master/Attachment/Github-Profile-gif.gif" alt="GitHub Profile GIF">
+  <img src="./Attachment/Github-Profile-gif.gif" alt="Github Profile GIF">
 </p>
 
 ## 💼 Professional Experience
